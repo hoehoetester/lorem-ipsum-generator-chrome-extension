@@ -2,4 +2,5 @@
 
 🚀 Very simple chrome extension to generate Lorem ipsum.
 
-![image](https://github.com/user-attachments/assets/59037027-7f0c-464a-a2ab-26595a8f9c7a)
+![image](https://github.com/user-attachments/assets/06f42956-421e-4e6f-a04e-343eecb2aac2)
+
