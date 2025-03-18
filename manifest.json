@@ -1,0 +1,16 @@
+{
+    "name": "Lorem Ipsum Generator",
+    "version": "1.0.0",
+    "description": "Generate Lorem Ipsum",
+    "manifest_version": 3,
+    "author": "Hoehoe Tester",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Lorem Ipsum Generator"
+    },
+    "icons": {
+        "16": "assets/icons/icon-16x16.png",
+        "48": "assets/icons/icon-48x48.png",
+        "128": "assets/icons/icon-128x128.png"
+    }
+}
